@@ -1,0 +1,215 @@
+{
+	"frames": {
+		"bakar_falling_1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 213,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 213,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 213,
+				"h": 247
+			}
+		},
+		"bakar_falling_2.png": {
+			"frame": {
+				"x": 216,
+				"y": 1,
+				"w": 213,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 213,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 213,
+				"h": 247
+			}
+		},
+		"bakar_falling_3.png": {
+			"frame": {
+				"x": 431,
+				"y": 1,
+				"w": 213,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 213,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 213,
+				"h": 247
+			}
+		},
+		"bakar_running_1.png": {
+			"frame": {
+				"x": 1,
+				"y": 250,
+				"w": 213,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 213,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 213,
+				"h": 247
+			}
+		},
+		"bakar_running_2.png": {
+			"frame": {
+				"x": 216,
+				"y": 250,
+				"w": 213,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 213,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 213,
+				"h": 247
+			}
+		},
+		"bakar_running_3.png": {
+			"frame": {
+				"x": 431,
+				"y": 250,
+				"w": 213,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 213,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 213,
+				"h": 247
+			}
+		},
+		"bakar_running_4.png": {
+			"frame": {
+				"x": 646,
+				"y": 1,
+				"w": 213,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 213,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 213,
+				"h": 247
+			}
+		},
+		"bakar_up_1.png": {
+			"frame": {
+				"x": 646,
+				"y": 250,
+				"w": 213,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 213,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 213,
+				"h": 247
+			}
+		},
+		"bakar_up_2.png": {
+			"frame": {
+				"x": 1,
+				"y": 499,
+				"w": 213,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 213,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 213,
+				"h": 247
+			}
+		},
+		"bakar_up_3.png": {
+			"frame": {
+				"x": 216,
+				"y": 499,
+				"w": 213,
+				"h": 247
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 213,
+				"h": 247
+			},
+			"sourceSize": {
+				"w": 213,
+				"h": 247
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "bakar_spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 860,
+			"h": 747
+		},
+		"scale": "1"
+	}
+}

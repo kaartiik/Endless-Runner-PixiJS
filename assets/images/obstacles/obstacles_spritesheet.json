@@ -1,0 +1,95 @@
+{
+	"frames": {
+		"obstacles_1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 333,
+				"h": 328
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 333,
+				"h": 328
+			},
+			"sourceSize": {
+				"w": 333,
+				"h": 328
+			}
+		},
+		"obstacles_2.png": {
+			"frame": {
+				"x": 336,
+				"y": 1,
+				"w": 333,
+				"h": 596
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 333,
+				"h": 596
+			},
+			"sourceSize": {
+				"w": 333,
+				"h": 596
+			}
+		},
+		"obstacles_3.png": {
+			"frame": {
+				"x": 671,
+				"y": 1,
+				"w": 344,
+				"h": 442
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 344,
+				"h": 442
+			},
+			"sourceSize": {
+				"w": 344,
+				"h": 442
+			}
+		},
+		"obstacles_4.png": {
+			"frame": {
+				"x": 1,
+				"y": 445,
+				"w": 296,
+				"h": 505
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 296,
+				"h": 505
+			},
+			"sourceSize": {
+				"w": 296,
+				"h": 505
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "obstacles_spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1016,
+			"h": 951
+		},
+		"scale": "1"
+	}
+}

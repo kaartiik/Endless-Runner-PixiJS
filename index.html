@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <title>Ejen Ali Endless Runner</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/5.1.3/pixi.min.js"></script>
+    <script src="https://unpkg.com/@pixi/sound/dist/pixi-sound.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
+  </head>
+
+  <body>
+    <div id="useFont">.</div>
+    <script type="module" src="js/main.js"></script>
+    <div id="fullscreenModal">
+      <div id="submitScoreModal" class="hidden">
+        <form id="submitScoreForm">
+          <label>
+            Name:
+            <input
+              id="nameInput"
+              class="scoreSubmitInput"
+              type="email"
+              name="email"
+            />
+          </label>
+          <label>
+            Email:
+            <input
+              id="emailInput"
+              class="scoreSubmitInput"
+              type="email"
+              name="email"
+            />
+          </label>
+        </form>
+
+        <div id="saveModalBtnContainer">
+          <button id="cancelBtn" type="button" onclick="retry()">Cancel</button>
+          <button id="submitBtn" type="button">Submit</button>
+        </div>
+      </div>
+
+      <img id="charTitle" class="hidden" src="./assets/images/titles_once/title_zass.gif">
+
+      <div id="finalScore" class="hidden modal">
+        <h1>Final<br>Score</h1>
+        <div id="scores" class="modalContent">
+          <p>Distance Travelled: <span id="distScore">1000</span>m</p>
+          <p>Henchmen Defeated: <span id="obsScore">1000</span></p>
+          <p>Coins Collected: <span id="coinsScore">1000</span></p>
+          <p>Total Score: <span id="totalScore">1000</span></p>
+          <p class="thankYouMessage">THANK YOU FOR YOUR<br>HELP ON THIS MISSION</p>
+          <img src="./assets/images/endmenu/button_submit.png" alt="submit score" onclick="submitScore()">
+          <img src="./assets/images/endmenu/button_retry.png" alt="retry" onclick="retry()">
+        </div>
+      </div>
+
+      <div id="pauseModal" class="hidden modal">
+        <h1>Game<br>Paused</h1>
+        <div class="modalContent">
+          <img id="resumeBtn" src="./assets/images/pausemenu/button_resume.png" alt="resume">
+          <img src="./assets/images/pausemenu/button_restart.png" alt="retry" onclick="retry()">
+        </div>
+      </div>
+      
+    </div>
+    <script>
+      function submitScore() {
+        document.getElementById('finalScore').classList.add('hidden');
+        document.getElementById('submitScoreModal').classList.remove('hidden');
+      }
+
+      function retry() {
+        console.log('retry')
+        window.sessionStorage.setItem("isRestart", true);
+        window.location.reload();
+      }
+    </script>
+  </body>
+</html>

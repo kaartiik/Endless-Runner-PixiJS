@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+canvas {
+  position: absolute;
+}
+
+@font-face {
+  font-family: "Gemini";
+  src: url("./assets/fonts/geminalaserital.ttf");
+}
+
+@font-face {
+  font-family: "Aero";
+  src: url("./assets/fonts/Aero.ttf");
+}
+
+#useFont {
+  font-family: "Gemini";
+  font-size: 1px;
+  display: none;
+}
+
+.hidden {
+  display: none !important;
+}
+
+#fullscreenModal {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+
+  background-color: rgba(0, 0, 0, 0.3);
+  display: none; /* Display by default */
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+.modal {
+  height:85%;
+  background-image: url("./assets/images/endmenu/end_screen_menu.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+  margin-top: 1%;
+  padding: 20px;
+  width: 25%;
+  text-align: center;
+  font-family: "Gemini";
+}
+
+.modal h1 {
+  font-size: 4rem;
+}
+
+.modalContent {
+  font-size: 1.2rem;
+  font-family: "Aero";
+}
+
+.modalContent img {
+  width: 60%;
+  margin-bottom: 0.2rem;
+  transition: all 0.2s;
+}
+.modalContent img:hover {
+  transform: scale(1.1);
+}
+
+.thankYouMessage {
+  font-size: 2rem;
+}
+
+#submitScoreModal {
+  background-color: white;
+  border-radius: 8px;
+  height: 20%;
+  width: 20%;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Aero";
+}
+
+#submitScoreForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.scoreSubmitInput {
+  border: 0px;
+  border-bottom: 1px solid black;
+}
+
+#saveModalBtnContainer {
+  display: flex;
+  flex-direction: row;
+  width: 20%;
+  margin-top: 8%;
+  justify-content: space-around;
+}
+
+#charTitle {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+
+/*For mobile*/
+@media screen and (max-width: 900px) {
+  #submitScoreModal {
+    background-color: white;
+    border-radius: 8px;
+    height: 40%;
+    width: 50%;
+    font-family: "Aero";
+  }
+  .modalContent {
+    font-size: 0.9rem;
+  }
+  .thankYouMessage {
+    font-size: 1rem;
+  }
+  .modalContent img {
+    width: 50%;
+  }
+  .modal h1 {
+    font-size: 1.5rem;
+  }
+}

@@ -1,0 +1,255 @@
+{
+	"frames": {
+		"Zass_1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_10.png": {
+			"frame": {
+				"x": 1,
+				"y": 203,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_11.png": {
+			"frame": {
+				"x": 1,
+				"y": 405,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_12.png": {
+			"frame": {
+				"x": 1,
+				"y": 607,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_2.png": {
+			"frame": {
+				"x": 1,
+				"y": 809,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_3.png": {
+			"frame": {
+				"x": 1,
+				"y": 1011,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_4.png": {
+			"frame": {
+				"x": 1,
+				"y": 1213,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_5.png": {
+			"frame": {
+				"x": 901,
+				"y": 1,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_6.png": {
+			"frame": {
+				"x": 901,
+				"y": 203,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_7.png": {
+			"frame": {
+				"x": 901,
+				"y": 405,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_8.png": {
+			"frame": {
+				"x": 901,
+				"y": 607,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		},
+		"Zass_9.png": {
+			"frame": {
+				"x": 901,
+				"y": 809,
+				"w": 898,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 898,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 898,
+				"h": 200
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "zass_spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1800,
+			"h": 1414
+		},
+		"scale": "1"
+	}
+}

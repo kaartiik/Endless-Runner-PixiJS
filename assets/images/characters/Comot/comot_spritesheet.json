@@ -1,0 +1,55 @@
+{
+	"frames": {
+		"comot_1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 294,
+				"h": 191
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 294,
+				"h": 191
+			},
+			"sourceSize": {
+				"w": 294,
+				"h": 191
+			}
+		},
+		"comot_2.png": {
+			"frame": {
+				"x": 297,
+				"y": 1,
+				"w": 294,
+				"h": 191
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 294,
+				"h": 191
+			},
+			"sourceSize": {
+				"w": 294,
+				"h": 191
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "comot_spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 592,
+			"h": 193
+		},
+		"scale": "1"
+	}
+}

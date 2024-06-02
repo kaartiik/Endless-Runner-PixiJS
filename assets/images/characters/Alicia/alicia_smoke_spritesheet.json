@@ -1,0 +1,75 @@
+{
+	"frames": {
+		"alicia_smoke_01.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 262,
+				"h": 244
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 262,
+				"h": 244
+			},
+			"sourceSize": {
+				"w": 262,
+				"h": 244
+			}
+		},
+		"alicia_smoke_02.png": {
+			"frame": {
+				"x": 265,
+				"y": 1,
+				"w": 283,
+				"h": 273
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 283,
+				"h": 273
+			},
+			"sourceSize": {
+				"w": 283,
+				"h": 273
+			}
+		},
+		"alicia_smoke_03.png": {
+			"frame": {
+				"x": 1,
+				"y": 276,
+				"w": 246,
+				"h": 242
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 246,
+				"h": 242
+			},
+			"sourceSize": {
+				"w": 246,
+				"h": 242
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "alicia_smoke_spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 549,
+			"h": 519
+		},
+		"scale": "1"
+	}
+}

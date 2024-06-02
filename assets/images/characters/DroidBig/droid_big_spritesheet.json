@@ -1,0 +1,515 @@
+{
+	"frames": {
+		"droid_big_fall_1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 256,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 225
+			}
+		},
+		"droid_big_fall_2.png": {
+			"frame": {
+				"x": 259,
+				"y": 1,
+				"w": 256,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 225
+			}
+		},
+		"droid_big_fall_3.png": {
+			"frame": {
+				"x": 517,
+				"y": 1,
+				"w": 256,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 225
+			}
+		},
+		"droid_big_fall_4.png": {
+			"frame": {
+				"x": 775,
+				"y": 1,
+				"w": 256,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 225
+			}
+		},
+		"droid_big_fall_5.png": {
+			"frame": {
+				"x": 1033,
+				"y": 1,
+				"w": 256,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 225
+			}
+		},
+		"droid_big_fall_6.png": {
+			"frame": {
+				"x": 1291,
+				"y": 1,
+				"w": 256,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 225
+			}
+		},
+		"droid_big_fall_7.png": {
+			"frame": {
+				"x": 1549,
+				"y": 1,
+				"w": 256,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 225
+			}
+		},
+		"droid_big_fall_8.png": {
+			"frame": {
+				"x": 1807,
+				"y": 1,
+				"w": 256,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 256,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 256,
+				"h": 225
+			}
+		},
+		"droid_big_rope_1.png": {
+			"frame": {
+				"x": 1,
+				"y": 228,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_10.png": {
+			"frame": {
+				"x": 588,
+				"y": 228,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_11.png": {
+			"frame": {
+				"x": 1175,
+				"y": 228,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_12.png": {
+			"frame": {
+				"x": 1,
+				"y": 795,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_13.png": {
+			"frame": {
+				"x": 588,
+				"y": 795,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_2.png": {
+			"frame": {
+				"x": 1175,
+				"y": 795,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_3.png": {
+			"frame": {
+				"x": 1,
+				"y": 1362,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_4.png": {
+			"frame": {
+				"x": 588,
+				"y": 1362,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_5.png": {
+			"frame": {
+				"x": 1175,
+				"y": 1362,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_6.png": {
+			"frame": {
+				"x": 2065,
+				"y": 1,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_7.png": {
+			"frame": {
+				"x": 1762,
+				"y": 568,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_8.png": {
+			"frame": {
+				"x": 1762,
+				"y": 1135,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_rope_9.png": {
+			"frame": {
+				"x": 1762,
+				"y": 1702,
+				"w": 585,
+				"h": 565
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 585,
+				"h": 565
+			},
+			"sourceSize": {
+				"w": 585,
+				"h": 565
+			}
+		},
+		"droid_big_walking_1.png": {
+			"frame": {
+				"x": 2349,
+				"y": 568,
+				"w": 225,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 225,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 225,
+				"h": 225
+			}
+		},
+		"droid_big_walking_2.png": {
+			"frame": {
+				"x": 2576,
+				"y": 568,
+				"w": 225,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 225,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 225,
+				"h": 225
+			}
+		},
+		"droid_big_walking_3.png": {
+			"frame": {
+				"x": 2349,
+				"y": 795,
+				"w": 225,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 225,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 225,
+				"h": 225
+			}
+		},
+		"droid_big_walking_4.png": {
+			"frame": {
+				"x": 2576,
+				"y": 795,
+				"w": 225,
+				"h": 225
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 225,
+				"h": 225
+			},
+			"sourceSize": {
+				"w": 225,
+				"h": 225
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "droid_big_spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 2802,
+			"h": 2268
+		},
+		"scale": "1"
+	}
+}

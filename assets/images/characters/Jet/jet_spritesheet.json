@@ -1,0 +1,135 @@
+{
+	"frames": {
+		"jet_flying_1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 142,
+				"h": 162
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 142,
+				"h": 162
+			},
+			"sourceSize": {
+				"w": 142,
+				"h": 162
+			}
+		},
+		"jet_flying_2.png": {
+			"frame": {
+				"x": 145,
+				"y": 1,
+				"w": 142,
+				"h": 162
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 142,
+				"h": 162
+			},
+			"sourceSize": {
+				"w": 142,
+				"h": 162
+			}
+		},
+		"jet_flying_3.png": {
+			"frame": {
+				"x": 1,
+				"y": 165,
+				"w": 142,
+				"h": 162
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 142,
+				"h": 162
+			},
+			"sourceSize": {
+				"w": 142,
+				"h": 162
+			}
+		},
+		"jet_flying_upsidedown_1.png": {
+			"frame": {
+				"x": 145,
+				"y": 165,
+				"w": 142,
+				"h": 162
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 142,
+				"h": 162
+			},
+			"sourceSize": {
+				"w": 142,
+				"h": 162
+			}
+		},
+		"jet_flying_upsidedown_2.png": {
+			"frame": {
+				"x": 289,
+				"y": 1,
+				"w": 142,
+				"h": 162
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 142,
+				"h": 162
+			},
+			"sourceSize": {
+				"w": 142,
+				"h": 162
+			}
+		},
+		"jet_flying_upsidedown_3.png": {
+			"frame": {
+				"x": 289,
+				"y": 165,
+				"w": 142,
+				"h": 162
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 142,
+				"h": 162
+			},
+			"sourceSize": {
+				"w": 142,
+				"h": 162
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "jet_spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 432,
+			"h": 328
+		},
+		"scale": "1"
+	}
+}

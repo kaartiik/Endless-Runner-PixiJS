@@ -1,0 +1,115 @@
+{
+	"frames": {
+		"beam_01.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 300,
+				"h": 600
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 600
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 600
+			}
+		},
+		"beam_02.png": {
+			"frame": {
+				"x": 303,
+				"y": 1,
+				"w": 300,
+				"h": 600
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 600
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 600
+			}
+		},
+		"beam_03.png": {
+			"frame": {
+				"x": 605,
+				"y": 1,
+				"w": 300,
+				"h": 600
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 600
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 600
+			}
+		},
+		"beam_04.png": {
+			"frame": {
+				"x": 907,
+				"y": 1,
+				"w": 300,
+				"h": 600
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 600
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 600
+			}
+		},
+		"beam_05.png": {
+			"frame": {
+				"x": 1,
+				"y": 603,
+				"w": 300,
+				"h": 600
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 300,
+				"h": 600
+			},
+			"sourceSize": {
+				"w": 300,
+				"h": 600
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "ali_beam_spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1208,
+			"h": 1204
+		},
+		"scale": "1"
+	}
+}
